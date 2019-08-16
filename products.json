@@ -1,0 +1,39 @@
+
+{
+  "companyName": "Lovely Deals .",
+  "headOffice": "Barrie, Ontario",
+  "established": 2013,
+  "active": true,
+  "topDeals": [
+    {
+      "name": "Table",
+      "price": 8.00,
+      "description": "Made in china.",
+      "features": [
+        "Brown Colour",
+        "extra manly"
+      ],
+      "image": "table.jpg"
+    },
+    {
+      "name": "Cup",
+      "price": 4.5,
+      "description": "Strong and colourful",
+      "features": [
+        "made by glass",
+        "beautiful green colour"
+      ],
+      "image": "cup.jpg"
+    },
+    {
+      "name": "Tree",
+      "price": 15.20,
+      "description": "Coconut tree ",
+      "features": [
+        "good for health",
+        "Feels nice"
+      ],
+      "image": "tree.jpg"
+    }
+  ]
+}
